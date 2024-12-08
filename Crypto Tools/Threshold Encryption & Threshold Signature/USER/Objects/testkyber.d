@@ -1,0 +1,9 @@
+.\objects\testkyber.o: ..\signature\BN254CX\testkyber.c
+.\objects\testkyber.o: D:\MDK5.36\ARM\ARMCC\Bin\..\include\stdio.h
+.\objects\testkyber.o: D:\MDK5.36\ARM\ARMCC\Bin\..\include\time.h
+.\objects\testkyber.o: ..\signature\BN254CX\kyber.h
+.\objects\testkyber.o: ..\signature\BN254CX\core.h
+.\objects\testkyber.o: D:\MDK5.36\ARM\ARMCC\Bin\..\include\stdlib.h
+.\objects\testkyber.o: ..\signature\BN254CX\arch.h
+.\objects\testkyber.o: D:\MDK5.36\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\testkyber.o: D:\MDK5.36\ARM\ARMCC\Bin\..\include\stdbool.h

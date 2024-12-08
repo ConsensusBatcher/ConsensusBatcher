@@ -1,0 +1,10 @@
+.\objects\big_256_28_1.o: ..\signature\BN254CX\big_256_28.c
+.\objects\big_256_28_1.o: ..\signature\BN254CX\big_256_28.h
+.\objects\big_256_28_1.o: D:\MDK5.36\ARM\ARMCC\Bin\..\include\stdio.h
+.\objects\big_256_28_1.o: D:\MDK5.36\ARM\ARMCC\Bin\..\include\stdlib.h
+.\objects\big_256_28_1.o: D:\MDK5.36\ARM\ARMCC\Bin\..\include\inttypes.h
+.\objects\big_256_28_1.o: D:\MDK5.36\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\big_256_28_1.o: ..\signature\BN254CX\arch.h
+.\objects\big_256_28_1.o: D:\MDK5.36\ARM\ARMCC\Bin\..\include\stdbool.h
+.\objects\big_256_28_1.o: ..\signature\BN254CX\core.h
+.\objects\big_256_28_1.o: ..\signature\BN254CX\config_big_256_28.h

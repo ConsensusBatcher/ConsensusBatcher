@@ -1,0 +1,10 @@
+.\objects\testhtp.o: ..\signature\BN254CX\testhtp.c
+.\objects\testhtp.o: D:\MDK5.36\ARM\ARMCC\Bin\..\include\stdio.h
+.\objects\testhtp.o: D:\MDK5.36\ARM\ARMCC\Bin\..\include\stdlib.h
+.\objects\testhtp.o: D:\MDK5.36\ARM\ARMCC\Bin\..\include\string.h
+.\objects\testhtp.o: D:\MDK5.36\ARM\ARMCC\Bin\..\include\time.h
+.\objects\testhtp.o: ..\signature\BN254CX\core.h
+.\objects\testhtp.o: ..\signature\BN254CX\arch.h
+.\objects\testhtp.o: D:\MDK5.36\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\testhtp.o: D:\MDK5.36\ARM\ARMCC\Bin\..\include\stdbool.h
+.\objects\testhtp.o: ..\signature\BN254CX\randapi.h

@@ -1,0 +1,17 @@
+.\objects\hpke_bls12443.o: ..\signature\BLS12443\hpke_BLS12443.c
+.\objects\hpke_bls12443.o: D:\MDK5.36\ARM\ARMCC\Bin\..\include\stdio.h
+.\objects\hpke_bls12443.o: D:\MDK5.36\ARM\ARMCC\Bin\..\include\stdlib.h
+.\objects\hpke_bls12443.o: D:\MDK5.36\ARM\ARMCC\Bin\..\include\string.h
+.\objects\hpke_bls12443.o: ..\signature\BLS12443\hpke_BLS12443.h
+.\objects\hpke_bls12443.o: ..\signature\BLS12443\ecdh_BLS12443.h
+.\objects\hpke_bls12443.o: ..\signature\BLS12443\ecp_BLS12443.h
+.\objects\hpke_bls12443.o: ..\signature\BLS12443\fp_BLS12443.h
+.\objects\hpke_bls12443.o: ..\signature\BLS12443\big_448_29.h
+.\objects\hpke_bls12443.o: D:\MDK5.36\ARM\ARMCC\Bin\..\include\inttypes.h
+.\objects\hpke_bls12443.o: D:\MDK5.36\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\hpke_bls12443.o: ..\signature\BLS12443\arch.h
+.\objects\hpke_bls12443.o: D:\MDK5.36\ARM\ARMCC\Bin\..\include\stdbool.h
+.\objects\hpke_bls12443.o: ..\signature\BLS12443\core.h
+.\objects\hpke_bls12443.o: ..\signature\BLS12443\config_big_448_29.h
+.\objects\hpke_bls12443.o: ..\signature\BLS12443\config_field_BLS12443.h
+.\objects\hpke_bls12443.o: ..\signature\BLS12443\config_curve_BLS12443.h

@@ -1,0 +1,12 @@
+.\objects\rom_field_bls48556.o: ..\signature\BLS48556\rom_field_BLS48556.c
+.\objects\rom_field_bls48556.o: ..\signature\BLS48556\arch.h
+.\objects\rom_field_bls48556.o: D:\MDK5.36\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\rom_field_bls48556.o: D:\MDK5.36\ARM\ARMCC\Bin\..\include\stdbool.h
+.\objects\rom_field_bls48556.o: ..\signature\BLS48556\fp_BLS48556.h
+.\objects\rom_field_bls48556.o: ..\signature\BLS48556\big_560_29.h
+.\objects\rom_field_bls48556.o: D:\MDK5.36\ARM\ARMCC\Bin\..\include\stdio.h
+.\objects\rom_field_bls48556.o: D:\MDK5.36\ARM\ARMCC\Bin\..\include\stdlib.h
+.\objects\rom_field_bls48556.o: D:\MDK5.36\ARM\ARMCC\Bin\..\include\inttypes.h
+.\objects\rom_field_bls48556.o: ..\signature\BLS48556\core.h
+.\objects\rom_field_bls48556.o: ..\signature\BLS48556\config_big_560_29.h
+.\objects\rom_field_bls48556.o: ..\signature\BLS48556\config_field_BLS48556.h

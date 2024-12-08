@@ -1,0 +1,17 @@
+.\objects\fp16_bls48286.o: ..\signature\BLS48286\fp16_BLS48286.c
+.\objects\fp16_bls48286.o: ..\signature\BLS48286\fp16_BLS48286.h
+.\objects\fp16_bls48286.o: ..\signature\BLS48286\fp8_BLS48286.h
+.\objects\fp16_bls48286.o: ..\signature\BLS48286\fp4_BLS48286.h
+.\objects\fp16_bls48286.o: ..\signature\BLS48286\fp2_BLS48286.h
+.\objects\fp16_bls48286.o: ..\signature\BLS48286\fp_BLS48286.h
+.\objects\fp16_bls48286.o: ..\signature\BLS48286\big_288_29.h
+.\objects\fp16_bls48286.o: D:\MDK5.36\ARM\ARMCC\Bin\..\include\stdio.h
+.\objects\fp16_bls48286.o: D:\MDK5.36\ARM\ARMCC\Bin\..\include\stdlib.h
+.\objects\fp16_bls48286.o: D:\MDK5.36\ARM\ARMCC\Bin\..\include\inttypes.h
+.\objects\fp16_bls48286.o: D:\MDK5.36\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\fp16_bls48286.o: ..\signature\BLS48286\arch.h
+.\objects\fp16_bls48286.o: D:\MDK5.36\ARM\ARMCC\Bin\..\include\stdbool.h
+.\objects\fp16_bls48286.o: ..\signature\BLS48286\core.h
+.\objects\fp16_bls48286.o: ..\signature\BLS48286\config_big_288_29.h
+.\objects\fp16_bls48286.o: ..\signature\BLS48286\config_field_BLS48286.h
+.\objects\fp16_bls48286.o: ..\signature\BLS48286\config_curve_BLS48286.h

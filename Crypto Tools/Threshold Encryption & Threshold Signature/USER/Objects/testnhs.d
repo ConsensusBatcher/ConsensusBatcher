@@ -1,0 +1,9 @@
+.\objects\testnhs.o: ..\signature\BN254CX\testnhs.c
+.\objects\testnhs.o: D:\MDK5.36\ARM\ARMCC\Bin\..\include\stdio.h
+.\objects\testnhs.o: D:\MDK5.36\ARM\ARMCC\Bin\..\include\time.h
+.\objects\testnhs.o: ..\signature\BN254CX\newhope.h
+.\objects\testnhs.o: ..\signature\BN254CX\core.h
+.\objects\testnhs.o: D:\MDK5.36\ARM\ARMCC\Bin\..\include\stdlib.h
+.\objects\testnhs.o: ..\signature\BN254CX\arch.h
+.\objects\testnhs.o: D:\MDK5.36\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\testnhs.o: D:\MDK5.36\ARM\ARMCC\Bin\..\include\stdbool.h

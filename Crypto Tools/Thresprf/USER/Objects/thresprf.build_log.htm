@@ -1,0 +1,96 @@
+<html>
+<body>
+<pre>
+<h1>µVision Build Log</h1>
+<h2>Tool Versions:</h2>
+IDE-Version: ¦ÌVision V5.36.0.0
+Copyright (C) 2021 ARM Ltd and ARM Germany GmbH. All rights reserved.
+License Information: shuo liu, sdu, LIC=KRMW3-AVM5U-FW92N-YWPKL-SK4DH-9NB83
+ 
+Tool Versions:
+Toolchain:       MDK-ARM Plus  Version: 5.36.0.0
+Toolchain Path:  D:\MDK5.36\ARM\ARMCC\Bin
+C Compiler:      Armcc.exe V5.06 update 7 (build 960)
+Assembler:       Armasm.exe V5.06 update 7 (build 960)
+Linker/Locator:  ArmLink.exe V5.06 update 7 (build 960)
+Library Manager: ArmAr.exe V5.06 update 7 (build 960)
+Hex Converter:   FromElf.exe V5.06 update 7 (build 960)
+CPU DLL:         SARMCM3.DLL V5.36.0.0
+Dialog DLL:      DCM.DLL V1.17.3.0
+Target DLL:      STLink\ST-LINKIII-KEIL_SWO.dll V3.0.9.0
+Dialog DLL:      TCM.DLL V1.53.0.0
+ 
+<h2>Project:</h2>
+C:\Users\LiuShuo\Desktop\test_thresprf\USER\thresprf.uvprojx
+Project File Date:  11/01/2024
+
+<h2>Output:</h2>
+*** Using Compiler 'V5.06 update 7 (build 960)', folder: 'D:\MDK5.36\ARM\ARMCC\Bin'
+*** Warning: You are compiling one or more files of source type C++ and have selected 'use MicroLIB'. MicroLIB does not support C++!
+  
+Build target 'Target 1'
+compiling tendermint2.c...
+..\APPLICATION\tendermint2.h(116): warning:  #1295-D: Deprecated declaration tendermint2 - give arg types
+  void tendermint2();
+..\signature\BN158\bls_BN158.h(51): warning:  #1295-D: Deprecated declaration BLS_BN158_INIT - give arg types
+  int BLS_BN158_INIT();
+..\APPLICATION\tendermint2.c(48): warning:  #223-D: function "LoRa_Init" declared implicitly
+  	while(LoRa_Init())//³õÊ¼»¯LORAÄ£¿é
+..\APPLICATION\tendermint2.c(58): warning:  #223-D: function "LoRa_Set" declared implicitly
+  	LoRa_Set();
+..\APPLICATION\tendermint2.c(71): warning:  #223-D: function "LoRa_SendData" declared implicitly
+  	LoRa_SendData(Send_Data_buff);
+..\APPLICATION\tendermint2.c(73): warning:  #177-D: variable "i"  was declared but never referenced
+      int i,res;
+..\APPLICATION\tendermint2.c(192): warning:  #1295-D: Deprecated declaration testdemo - give arg types
+  void testdemo();
+..\APPLICATION\tendermint2.c(312): warning:  #223-D: function "RNG_Get_RandomNum" declared implicitly
+  	u32 ran = RNG_Get_RandomNum();	
+..\APPLICATION\tendermint2.c(315): warning:  #223-D: function "CREATE_CSPRNG" declared implicitly
+      CREATE_CSPRNG(&RNGx, &RAW);  // initialise strong RNG
+..\APPLICATION\tendermint2.c(589): warning:  #223-D: function "RNG_Get_RandomNum" declared implicitly
+  	u32 ran = RNG_Get_RandomNum();	
+..\APPLICATION\tendermint2.c(592): warning:  #223-D: function "CREATE_CSPRNG" declared implicitly
+      CREATE_CSPRNG(&RNGx, &RAW);  // initialise strong RNG
+..\APPLICATION\tendermint2.c(722): warning:  #177-D: variable "tmp3"  was declared but never referenced
+  		ECP_BN158 tmp1,tmp2,tmp3;
+..\APPLICATION\tendermint2.c(584): warning:  #177-D: variable "r"  was declared but never referenced
+  	BIG_160_28 r,modl;
+..\APPLICATION\tendermint2.c(626): warning:  #177-D: variable "num"  was declared but never referenced
+  	BIG_160_28 num;
+..\APPLICATION\tendermint2.c(940): warning:  #223-D: function "init_public_key" declared implicitly
+  	init_public_key();
+..\APPLICATION\tendermint2.c(958): warning:  #223-D: function "RNG_Get_RandomNum" declared implicitly
+  	u32 ran = RNG_Get_RandomNum();	
+..\APPLICATION\tendermint2.c(961): warning:  #223-D: function "CREATE_CSPRNG" declared implicitly
+      CREATE_CSPRNG(&RNGx, &RAW);  // initialise strong RNG
+..\APPLICATION\tendermint2.c(972): warning:  #223-D: function "LoRa_SendData" declared implicitly
+  		LoRa_SendData(Send_Data_buff);
+..\APPLICATION\tendermint2.c(946): warning:  #177-D: variable "print_key"  was declared but never referenced
+  	u8 print_key = 0;
+..\APPLICATION\tendermint2.c(948): warning:  #177-D: variable "test256"  was declared but never referenced
+  	char test256[]="abcdbcdecdefdefgefghfghighijhijkijkljklmklmnlmnomnopnopq";
+..\APPLICATION\tendermint2.c(953): warning:  #177-D: variable "modl"  was declared but never referenced
+  	BIG_160_28 q, modl;
+..\APPLICATION\tendermint2.c(1036): warning:  #223-D: function "LoRa_SendData" declared implicitly
+  	sprintf((char*)Send_Data_buff,"Dealer Time:");LoRa_SendData(Send_Data_buff);
+..\APPLICATION\tendermint2.c: 22 warnings, 0 errors
+linking...
+Program Size: Code=45032 RO-data=3732 RW-data=4972 ZI-data=159356  
+".\Objects\thresprf.axf" - 0 Error(s), 22 Warning(s).
+
+<h2>Software Packages used:</h2>
+
+Package Vendor: Keil
+                https://www.keil.com/pack/Keil.STM32F7xx_DFP.2.15.2.pack
+                Keil.STM32F7xx_DFP.2.15.2
+                STMicroelectronics STM32F7 Series Device Support, Drivers and Examples
+
+<h2>Collection of Component include folders:</h2>
+  D:\MDK5.36\Packs\Keil\STM32F7xx_DFP\2.15.2\Drivers\CMSIS\Device\ST\STM32F7xx\Include
+
+<h2>Collection of Component Files used:</h2>
+Build Time Elapsed:  00:00:03
+</pre>
+</body>
+</html>

@@ -1,0 +1,10 @@
+.\objects\big_448_29.o: ..\signature\BLS12443\big_448_29.c
+.\objects\big_448_29.o: ..\signature\BLS12443\big_448_29.h
+.\objects\big_448_29.o: D:\MDK5.36\ARM\ARMCC\Bin\..\include\stdio.h
+.\objects\big_448_29.o: D:\MDK5.36\ARM\ARMCC\Bin\..\include\stdlib.h
+.\objects\big_448_29.o: D:\MDK5.36\ARM\ARMCC\Bin\..\include\inttypes.h
+.\objects\big_448_29.o: D:\MDK5.36\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\big_448_29.o: ..\signature\BLS12443\arch.h
+.\objects\big_448_29.o: D:\MDK5.36\ARM\ARMCC\Bin\..\include\stdbool.h
+.\objects\big_448_29.o: ..\signature\BLS12443\core.h
+.\objects\big_448_29.o: ..\signature\BLS12443\config_big_448_29.h

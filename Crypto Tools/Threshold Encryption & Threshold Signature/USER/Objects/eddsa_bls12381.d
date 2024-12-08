@@ -1,0 +1,16 @@
+.\objects\eddsa_bls12381.o: ..\signature\BLS12381\eddsa_BLS12381.c
+.\objects\eddsa_bls12381.o: D:\MDK5.36\ARM\ARMCC\Bin\..\include\stdio.h
+.\objects\eddsa_bls12381.o: D:\MDK5.36\ARM\ARMCC\Bin\..\include\stdlib.h
+.\objects\eddsa_bls12381.o: D:\MDK5.36\ARM\ARMCC\Bin\..\include\time.h
+.\objects\eddsa_bls12381.o: ..\signature\BLS12381\eddsa_BLS12381.h
+.\objects\eddsa_bls12381.o: ..\signature\BLS12381\ecp_BLS12381.h
+.\objects\eddsa_bls12381.o: ..\signature\BLS12381\fp_BLS12381.h
+.\objects\eddsa_bls12381.o: ..\signature\BLS12381\big_384_29.h
+.\objects\eddsa_bls12381.o: D:\MDK5.36\ARM\ARMCC\Bin\..\include\inttypes.h
+.\objects\eddsa_bls12381.o: D:\MDK5.36\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\eddsa_bls12381.o: ..\signature\BLS12381\arch.h
+.\objects\eddsa_bls12381.o: D:\MDK5.36\ARM\ARMCC\Bin\..\include\stdbool.h
+.\objects\eddsa_bls12381.o: ..\signature\BLS12381\core.h
+.\objects\eddsa_bls12381.o: ..\signature\BLS12381\config_big_384_29.h
+.\objects\eddsa_bls12381.o: ..\signature\BLS12381\config_field_BLS12381.h
+.\objects\eddsa_bls12381.o: ..\signature\BLS12381\config_curve_BLS12381.h

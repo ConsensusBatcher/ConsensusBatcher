@@ -1,0 +1,9 @@
+.\objects\testdlthm.o: ..\signature\BN254CX\testdlthm.c
+.\objects\testdlthm.o: D:\MDK5.36\ARM\ARMCC\Bin\..\include\stdio.h
+.\objects\testdlthm.o: D:\MDK5.36\ARM\ARMCC\Bin\..\include\time.h
+.\objects\testdlthm.o: ..\signature\BN254CX\dilithium.h
+.\objects\testdlthm.o: ..\signature\BN254CX\core.h
+.\objects\testdlthm.o: D:\MDK5.36\ARM\ARMCC\Bin\..\include\stdlib.h
+.\objects\testdlthm.o: ..\signature\BN254CX\arch.h
+.\objects\testdlthm.o: D:\MDK5.36\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\testdlthm.o: D:\MDK5.36\ARM\ARMCC\Bin\..\include\stdbool.h

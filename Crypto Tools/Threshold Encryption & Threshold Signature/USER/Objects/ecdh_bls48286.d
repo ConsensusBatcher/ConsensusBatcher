@@ -1,0 +1,17 @@
+.\objects\ecdh_bls48286.o: ..\signature\BLS48286\ecdh_BLS48286.c
+.\objects\ecdh_bls48286.o: D:\MDK5.36\ARM\ARMCC\Bin\..\include\stdio.h
+.\objects\ecdh_bls48286.o: D:\MDK5.36\ARM\ARMCC\Bin\..\include\string.h
+.\objects\ecdh_bls48286.o: D:\MDK5.36\ARM\ARMCC\Bin\..\include\stdlib.h
+.\objects\ecdh_bls48286.o: D:\MDK5.36\ARM\ARMCC\Bin\..\include\time.h
+.\objects\ecdh_bls48286.o: ..\signature\BLS48286\ecdh_BLS48286.h
+.\objects\ecdh_bls48286.o: ..\signature\BLS48286\ecp_BLS48286.h
+.\objects\ecdh_bls48286.o: ..\signature\BLS48286\fp_BLS48286.h
+.\objects\ecdh_bls48286.o: ..\signature\BLS48286\big_288_29.h
+.\objects\ecdh_bls48286.o: D:\MDK5.36\ARM\ARMCC\Bin\..\include\inttypes.h
+.\objects\ecdh_bls48286.o: D:\MDK5.36\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\ecdh_bls48286.o: ..\signature\BLS48286\arch.h
+.\objects\ecdh_bls48286.o: D:\MDK5.36\ARM\ARMCC\Bin\..\include\stdbool.h
+.\objects\ecdh_bls48286.o: ..\signature\BLS48286\core.h
+.\objects\ecdh_bls48286.o: ..\signature\BLS48286\config_big_288_29.h
+.\objects\ecdh_bls48286.o: ..\signature\BLS48286\config_field_BLS48286.h
+.\objects\ecdh_bls48286.o: ..\signature\BLS48286\config_curve_BLS48286.h

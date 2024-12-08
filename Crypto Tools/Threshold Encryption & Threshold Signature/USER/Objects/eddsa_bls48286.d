@@ -1,0 +1,16 @@
+.\objects\eddsa_bls48286.o: ..\signature\BLS48286\eddsa_BLS48286.c
+.\objects\eddsa_bls48286.o: D:\MDK5.36\ARM\ARMCC\Bin\..\include\stdio.h
+.\objects\eddsa_bls48286.o: D:\MDK5.36\ARM\ARMCC\Bin\..\include\stdlib.h
+.\objects\eddsa_bls48286.o: D:\MDK5.36\ARM\ARMCC\Bin\..\include\time.h
+.\objects\eddsa_bls48286.o: ..\signature\BLS48286\eddsa_BLS48286.h
+.\objects\eddsa_bls48286.o: ..\signature\BLS48286\ecp_BLS48286.h
+.\objects\eddsa_bls48286.o: ..\signature\BLS48286\fp_BLS48286.h
+.\objects\eddsa_bls48286.o: ..\signature\BLS48286\big_288_29.h
+.\objects\eddsa_bls48286.o: D:\MDK5.36\ARM\ARMCC\Bin\..\include\inttypes.h
+.\objects\eddsa_bls48286.o: D:\MDK5.36\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\eddsa_bls48286.o: ..\signature\BLS48286\arch.h
+.\objects\eddsa_bls48286.o: D:\MDK5.36\ARM\ARMCC\Bin\..\include\stdbool.h
+.\objects\eddsa_bls48286.o: ..\signature\BLS48286\core.h
+.\objects\eddsa_bls48286.o: ..\signature\BLS48286\config_big_288_29.h
+.\objects\eddsa_bls48286.o: ..\signature\BLS48286\config_field_BLS48286.h
+.\objects\eddsa_bls48286.o: ..\signature\BLS48286\config_curve_BLS48286.h

@@ -1,0 +1,16 @@
+.\objects\fp12_bn254cx.o: ..\signature\BN254CX\fp12_BN254CX.c
+.\objects\fp12_bn254cx.o: ..\signature\BN254CX\fp12_BN254CX.h
+.\objects\fp12_bn254cx.o: ..\signature\BN254CX\fp4_BN254CX.h
+.\objects\fp12_bn254cx.o: ..\signature\BN254CX\fp2_BN254CX.h
+.\objects\fp12_bn254cx.o: ..\signature\BN254CX\fp_BN254CX.h
+.\objects\fp12_bn254cx.o: ..\signature\BN254CX\big_256_28.h
+.\objects\fp12_bn254cx.o: D:\MDK5.36\ARM\ARMCC\Bin\..\include\stdio.h
+.\objects\fp12_bn254cx.o: D:\MDK5.36\ARM\ARMCC\Bin\..\include\stdlib.h
+.\objects\fp12_bn254cx.o: D:\MDK5.36\ARM\ARMCC\Bin\..\include\inttypes.h
+.\objects\fp12_bn254cx.o: D:\MDK5.36\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\fp12_bn254cx.o: ..\signature\BN254CX\arch.h
+.\objects\fp12_bn254cx.o: D:\MDK5.36\ARM\ARMCC\Bin\..\include\stdbool.h
+.\objects\fp12_bn254cx.o: ..\signature\BN254CX\core.h
+.\objects\fp12_bn254cx.o: ..\signature\BN254CX\config_big_256_28.h
+.\objects\fp12_bn254cx.o: ..\signature\BN254CX\config_field_BN254CX.h
+.\objects\fp12_bn254cx.o: ..\signature\BN254CX\config_curve_BN254CX.h

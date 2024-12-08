@@ -1,0 +1,10 @@
+.\objects\big_256_28.o: ..\signature\FP256BN\big_256_28.c
+.\objects\big_256_28.o: ..\signature\FP256BN\big_256_28.h
+.\objects\big_256_28.o: D:\MDK5.36\ARM\ARMCC\Bin\..\include\stdio.h
+.\objects\big_256_28.o: D:\MDK5.36\ARM\ARMCC\Bin\..\include\stdlib.h
+.\objects\big_256_28.o: D:\MDK5.36\ARM\ARMCC\Bin\..\include\inttypes.h
+.\objects\big_256_28.o: D:\MDK5.36\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\big_256_28.o: ..\signature\FP256BN\arch.h
+.\objects\big_256_28.o: D:\MDK5.36\ARM\ARMCC\Bin\..\include\stdbool.h
+.\objects\big_256_28.o: ..\signature\FP256BN\core.h
+.\objects\big_256_28.o: ..\signature\FP256BN\config_big_256_28.h

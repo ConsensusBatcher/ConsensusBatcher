@@ -1,0 +1,16 @@
+.\objects\fp12_bn462.o: ..\signature\BN462\fp12_BN462.c
+.\objects\fp12_bn462.o: ..\signature\BN462\fp12_BN462.h
+.\objects\fp12_bn462.o: ..\signature\BN462\fp4_BN462.h
+.\objects\fp12_bn462.o: ..\signature\BN462\fp2_BN462.h
+.\objects\fp12_bn462.o: ..\signature\BN462\fp_BN462.h
+.\objects\fp12_bn462.o: ..\signature\BN462\big_464_28.h
+.\objects\fp12_bn462.o: D:\MDK5.36\ARM\ARMCC\Bin\..\include\stdio.h
+.\objects\fp12_bn462.o: D:\MDK5.36\ARM\ARMCC\Bin\..\include\stdlib.h
+.\objects\fp12_bn462.o: D:\MDK5.36\ARM\ARMCC\Bin\..\include\inttypes.h
+.\objects\fp12_bn462.o: D:\MDK5.36\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\fp12_bn462.o: ..\signature\BN462\arch.h
+.\objects\fp12_bn462.o: D:\MDK5.36\ARM\ARMCC\Bin\..\include\stdbool.h
+.\objects\fp12_bn462.o: ..\signature\BN462\core.h
+.\objects\fp12_bn462.o: ..\signature\BN462\config_big_464_28.h
+.\objects\fp12_bn462.o: ..\signature\BN462\config_field_BN462.h
+.\objects\fp12_bn462.o: ..\signature\BN462\config_curve_BN462.h

@@ -1,0 +1,9 @@
+.\objects\testkyber.o: ..\FP256BN\testkyber.c
+.\objects\testkyber.o: D:\MDK5.36\ARM\ARMCC\Bin\..\include\stdio.h
+.\objects\testkyber.o: D:\MDK5.36\ARM\ARMCC\Bin\..\include\time.h
+.\objects\testkyber.o: ..\FP256BN\kyber.h
+.\objects\testkyber.o: ..\FP256BN\core.h
+.\objects\testkyber.o: D:\MDK5.36\ARM\ARMCC\Bin\..\include\stdlib.h
+.\objects\testkyber.o: ..\FP256BN\arch.h
+.\objects\testkyber.o: D:\MDK5.36\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\testkyber.o: D:\MDK5.36\ARM\ARMCC\Bin\..\include\stdbool.h

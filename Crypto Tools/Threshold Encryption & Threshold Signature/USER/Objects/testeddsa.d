@@ -1,0 +1,10 @@
+.\objects\testeddsa.o: ..\signature\BN254CX\testeddsa.c
+.\objects\testeddsa.o: D:\MDK5.36\ARM\ARMCC\Bin\..\include\stdio.h
+.\objects\testeddsa.o: D:\MDK5.36\ARM\ARMCC\Bin\..\include\stdlib.h
+.\objects\testeddsa.o: D:\MDK5.36\ARM\ARMCC\Bin\..\include\string.h
+.\objects\testeddsa.o: D:\MDK5.36\ARM\ARMCC\Bin\..\include\time.h
+.\objects\testeddsa.o: ..\signature\BN254CX\randapi.h
+.\objects\testeddsa.o: ..\signature\BN254CX\core.h
+.\objects\testeddsa.o: ..\signature\BN254CX\arch.h
+.\objects\testeddsa.o: D:\MDK5.36\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\testeddsa.o: D:\MDK5.36\ARM\ARMCC\Bin\..\include\stdbool.h

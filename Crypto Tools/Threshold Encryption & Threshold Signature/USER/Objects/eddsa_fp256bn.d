@@ -1,0 +1,16 @@
+.\objects\eddsa_fp256bn.o: ..\signature\FP256BN\eddsa_FP256BN.c
+.\objects\eddsa_fp256bn.o: D:\MDK5.36\ARM\ARMCC\Bin\..\include\stdio.h
+.\objects\eddsa_fp256bn.o: D:\MDK5.36\ARM\ARMCC\Bin\..\include\stdlib.h
+.\objects\eddsa_fp256bn.o: D:\MDK5.36\ARM\ARMCC\Bin\..\include\time.h
+.\objects\eddsa_fp256bn.o: ..\signature\FP256BN\eddsa_FP256BN.h
+.\objects\eddsa_fp256bn.o: ..\signature\FP256BN\ecp_FP256BN.h
+.\objects\eddsa_fp256bn.o: ..\signature\FP256BN\fp_FP256BN.h
+.\objects\eddsa_fp256bn.o: ..\signature\FP256BN\big_256_28.h
+.\objects\eddsa_fp256bn.o: D:\MDK5.36\ARM\ARMCC\Bin\..\include\inttypes.h
+.\objects\eddsa_fp256bn.o: D:\MDK5.36\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\eddsa_fp256bn.o: ..\signature\FP256BN\arch.h
+.\objects\eddsa_fp256bn.o: D:\MDK5.36\ARM\ARMCC\Bin\..\include\stdbool.h
+.\objects\eddsa_fp256bn.o: ..\signature\FP256BN\core.h
+.\objects\eddsa_fp256bn.o: ..\signature\FP256BN\config_big_256_28.h
+.\objects\eddsa_fp256bn.o: ..\signature\FP256BN\config_field_FP256BN.h
+.\objects\eddsa_fp256bn.o: ..\signature\FP256BN\config_curve_FP256BN.h

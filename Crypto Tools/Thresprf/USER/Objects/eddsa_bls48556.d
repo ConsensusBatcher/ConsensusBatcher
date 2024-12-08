@@ -1,0 +1,16 @@
+.\objects\eddsa_bls48556.o: ..\signature\BLS48556\eddsa_BLS48556.c
+.\objects\eddsa_bls48556.o: D:\MDK5.36\ARM\ARMCC\Bin\..\include\stdio.h
+.\objects\eddsa_bls48556.o: D:\MDK5.36\ARM\ARMCC\Bin\..\include\stdlib.h
+.\objects\eddsa_bls48556.o: D:\MDK5.36\ARM\ARMCC\Bin\..\include\time.h
+.\objects\eddsa_bls48556.o: ..\signature\BLS48556\eddsa_BLS48556.h
+.\objects\eddsa_bls48556.o: ..\signature\BLS48556\ecp_BLS48556.h
+.\objects\eddsa_bls48556.o: ..\signature\BLS48556\fp_BLS48556.h
+.\objects\eddsa_bls48556.o: ..\signature\BLS48556\big_560_29.h
+.\objects\eddsa_bls48556.o: D:\MDK5.36\ARM\ARMCC\Bin\..\include\inttypes.h
+.\objects\eddsa_bls48556.o: D:\MDK5.36\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\eddsa_bls48556.o: ..\signature\BLS48556\arch.h
+.\objects\eddsa_bls48556.o: D:\MDK5.36\ARM\ARMCC\Bin\..\include\stdbool.h
+.\objects\eddsa_bls48556.o: ..\signature\BLS48556\core.h
+.\objects\eddsa_bls48556.o: ..\signature\BLS48556\config_big_560_29.h
+.\objects\eddsa_bls48556.o: ..\signature\BLS48556\config_field_BLS48556.h
+.\objects\eddsa_bls48556.o: ..\signature\BLS48556\config_curve_BLS48556.h

@@ -1,0 +1,14 @@
+.\objects\ecp_bn462.o: ..\signature\BN462\ecp_BN462.c
+.\objects\ecp_bn462.o: ..\signature\BN462\ecp_BN462.h
+.\objects\ecp_bn462.o: ..\signature\BN462\fp_BN462.h
+.\objects\ecp_bn462.o: ..\signature\BN462\big_464_28.h
+.\objects\ecp_bn462.o: D:\MDK5.36\ARM\ARMCC\Bin\..\include\stdio.h
+.\objects\ecp_bn462.o: D:\MDK5.36\ARM\ARMCC\Bin\..\include\stdlib.h
+.\objects\ecp_bn462.o: D:\MDK5.36\ARM\ARMCC\Bin\..\include\inttypes.h
+.\objects\ecp_bn462.o: D:\MDK5.36\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\ecp_bn462.o: ..\signature\BN462\arch.h
+.\objects\ecp_bn462.o: D:\MDK5.36\ARM\ARMCC\Bin\..\include\stdbool.h
+.\objects\ecp_bn462.o: ..\signature\BN462\core.h
+.\objects\ecp_bn462.o: ..\signature\BN462\config_big_464_28.h
+.\objects\ecp_bn462.o: ..\signature\BN462\config_field_BN462.h
+.\objects\ecp_bn462.o: ..\signature\BN462\config_curve_BN462.h

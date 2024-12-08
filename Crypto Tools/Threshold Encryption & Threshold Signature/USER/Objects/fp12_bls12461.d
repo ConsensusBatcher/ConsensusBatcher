@@ -1,0 +1,16 @@
+.\objects\fp12_bls12461.o: ..\signature\BLS12461\fp12_BLS12461.c
+.\objects\fp12_bls12461.o: ..\signature\BLS12461\fp12_BLS12461.h
+.\objects\fp12_bls12461.o: ..\signature\BLS12461\fp4_BLS12461.h
+.\objects\fp12_bls12461.o: ..\signature\BLS12461\fp2_BLS12461.h
+.\objects\fp12_bls12461.o: ..\signature\BLS12461\fp_BLS12461.h
+.\objects\fp12_bls12461.o: ..\signature\BLS12461\big_464_28.h
+.\objects\fp12_bls12461.o: D:\MDK5.36\ARM\ARMCC\Bin\..\include\stdio.h
+.\objects\fp12_bls12461.o: D:\MDK5.36\ARM\ARMCC\Bin\..\include\stdlib.h
+.\objects\fp12_bls12461.o: D:\MDK5.36\ARM\ARMCC\Bin\..\include\inttypes.h
+.\objects\fp12_bls12461.o: D:\MDK5.36\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\fp12_bls12461.o: ..\signature\BLS12461\arch.h
+.\objects\fp12_bls12461.o: D:\MDK5.36\ARM\ARMCC\Bin\..\include\stdbool.h
+.\objects\fp12_bls12461.o: ..\signature\BLS12461\core.h
+.\objects\fp12_bls12461.o: ..\signature\BLS12461\config_big_464_28.h
+.\objects\fp12_bls12461.o: ..\signature\BLS12461\config_field_BLS12461.h
+.\objects\fp12_bls12461.o: ..\signature\BLS12461\config_curve_BLS12461.h

@@ -1,0 +1,14 @@
+.\objects\rom_curve_bn462.o: ..\signature\BN462\rom_curve_BN462.c
+.\objects\rom_curve_bn462.o: ..\signature\BN462\arch.h
+.\objects\rom_curve_bn462.o: D:\MDK5.36\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\rom_curve_bn462.o: D:\MDK5.36\ARM\ARMCC\Bin\..\include\stdbool.h
+.\objects\rom_curve_bn462.o: ..\signature\BN462\ecp_BN462.h
+.\objects\rom_curve_bn462.o: ..\signature\BN462\fp_BN462.h
+.\objects\rom_curve_bn462.o: ..\signature\BN462\big_464_28.h
+.\objects\rom_curve_bn462.o: D:\MDK5.36\ARM\ARMCC\Bin\..\include\stdio.h
+.\objects\rom_curve_bn462.o: D:\MDK5.36\ARM\ARMCC\Bin\..\include\stdlib.h
+.\objects\rom_curve_bn462.o: D:\MDK5.36\ARM\ARMCC\Bin\..\include\inttypes.h
+.\objects\rom_curve_bn462.o: ..\signature\BN462\core.h
+.\objects\rom_curve_bn462.o: ..\signature\BN462\config_big_464_28.h
+.\objects\rom_curve_bn462.o: ..\signature\BN462\config_field_BN462.h
+.\objects\rom_curve_bn462.o: ..\signature\BN462\config_curve_BN462.h

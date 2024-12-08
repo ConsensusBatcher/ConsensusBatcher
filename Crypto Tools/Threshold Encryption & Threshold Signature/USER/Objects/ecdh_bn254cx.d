@@ -1,0 +1,17 @@
+.\objects\ecdh_bn254cx.o: ..\signature\BN254CX\ecdh_BN254CX.c
+.\objects\ecdh_bn254cx.o: D:\MDK5.36\ARM\ARMCC\Bin\..\include\stdio.h
+.\objects\ecdh_bn254cx.o: D:\MDK5.36\ARM\ARMCC\Bin\..\include\string.h
+.\objects\ecdh_bn254cx.o: D:\MDK5.36\ARM\ARMCC\Bin\..\include\stdlib.h
+.\objects\ecdh_bn254cx.o: D:\MDK5.36\ARM\ARMCC\Bin\..\include\time.h
+.\objects\ecdh_bn254cx.o: ..\signature\BN254CX\ecdh_BN254CX.h
+.\objects\ecdh_bn254cx.o: ..\signature\BN254CX\ecp_BN254CX.h
+.\objects\ecdh_bn254cx.o: ..\signature\BN254CX\fp_BN254CX.h
+.\objects\ecdh_bn254cx.o: ..\signature\BN254CX\big_256_28.h
+.\objects\ecdh_bn254cx.o: D:\MDK5.36\ARM\ARMCC\Bin\..\include\inttypes.h
+.\objects\ecdh_bn254cx.o: D:\MDK5.36\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\ecdh_bn254cx.o: ..\signature\BN254CX\arch.h
+.\objects\ecdh_bn254cx.o: D:\MDK5.36\ARM\ARMCC\Bin\..\include\stdbool.h
+.\objects\ecdh_bn254cx.o: ..\signature\BN254CX\core.h
+.\objects\ecdh_bn254cx.o: ..\signature\BN254CX\config_big_256_28.h
+.\objects\ecdh_bn254cx.o: ..\signature\BN254CX\config_field_BN254CX.h
+.\objects\ecdh_bn254cx.o: ..\signature\BN254CX\config_curve_BN254CX.h

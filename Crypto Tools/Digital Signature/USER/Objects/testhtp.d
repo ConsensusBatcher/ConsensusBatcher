@@ -1,0 +1,10 @@
+.\objects\testhtp.o: ..\FP256BN\testhtp.c
+.\objects\testhtp.o: D:\MDK5.36\ARM\ARMCC\Bin\..\include\stdio.h
+.\objects\testhtp.o: D:\MDK5.36\ARM\ARMCC\Bin\..\include\stdlib.h
+.\objects\testhtp.o: D:\MDK5.36\ARM\ARMCC\Bin\..\include\string.h
+.\objects\testhtp.o: D:\MDK5.36\ARM\ARMCC\Bin\..\include\time.h
+.\objects\testhtp.o: ..\FP256BN\core.h
+.\objects\testhtp.o: ..\FP256BN\arch.h
+.\objects\testhtp.o: D:\MDK5.36\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\testhtp.o: D:\MDK5.36\ARM\ARMCC\Bin\..\include\stdbool.h
+.\objects\testhtp.o: ..\FP256BN\randapi.h

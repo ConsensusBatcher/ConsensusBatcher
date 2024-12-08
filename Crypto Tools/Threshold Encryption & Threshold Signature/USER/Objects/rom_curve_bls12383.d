@@ -1,0 +1,14 @@
+.\objects\rom_curve_bls12383.o: ..\signature\BLS12383\rom_curve_BLS12383.c
+.\objects\rom_curve_bls12383.o: ..\signature\BLS12383\arch.h
+.\objects\rom_curve_bls12383.o: D:\MDK5.36\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\rom_curve_bls12383.o: D:\MDK5.36\ARM\ARMCC\Bin\..\include\stdbool.h
+.\objects\rom_curve_bls12383.o: ..\signature\BLS12383\ecp_BLS12383.h
+.\objects\rom_curve_bls12383.o: ..\signature\BLS12383\fp_BLS12383.h
+.\objects\rom_curve_bls12383.o: ..\signature\BLS12383\big_384_29.h
+.\objects\rom_curve_bls12383.o: D:\MDK5.36\ARM\ARMCC\Bin\..\include\stdio.h
+.\objects\rom_curve_bls12383.o: D:\MDK5.36\ARM\ARMCC\Bin\..\include\stdlib.h
+.\objects\rom_curve_bls12383.o: D:\MDK5.36\ARM\ARMCC\Bin\..\include\inttypes.h
+.\objects\rom_curve_bls12383.o: ..\signature\BLS12383\core.h
+.\objects\rom_curve_bls12383.o: ..\signature\BLS12383\config_big_384_29.h
+.\objects\rom_curve_bls12383.o: ..\signature\BLS12383\config_field_BLS12383.h
+.\objects\rom_curve_bls12383.o: ..\signature\BLS12383\config_curve_BLS12383.h

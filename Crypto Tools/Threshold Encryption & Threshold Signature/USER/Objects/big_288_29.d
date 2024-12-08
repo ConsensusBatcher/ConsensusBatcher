@@ -1,0 +1,10 @@
+.\objects\big_288_29.o: ..\signature\BLS48286\big_288_29.c
+.\objects\big_288_29.o: ..\signature\BLS48286\big_288_29.h
+.\objects\big_288_29.o: D:\MDK5.36\ARM\ARMCC\Bin\..\include\stdio.h
+.\objects\big_288_29.o: D:\MDK5.36\ARM\ARMCC\Bin\..\include\stdlib.h
+.\objects\big_288_29.o: D:\MDK5.36\ARM\ARMCC\Bin\..\include\inttypes.h
+.\objects\big_288_29.o: D:\MDK5.36\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\big_288_29.o: ..\signature\BLS48286\arch.h
+.\objects\big_288_29.o: D:\MDK5.36\ARM\ARMCC\Bin\..\include\stdbool.h
+.\objects\big_288_29.o: ..\signature\BLS48286\core.h
+.\objects\big_288_29.o: ..\signature\BLS48286\config_big_288_29.h

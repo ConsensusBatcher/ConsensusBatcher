@@ -1,0 +1,14 @@
+.\objects\ecp_bls12381.o: ..\signature\BLS12381\ecp_BLS12381.c
+.\objects\ecp_bls12381.o: ..\signature\BLS12381\ecp_BLS12381.h
+.\objects\ecp_bls12381.o: ..\signature\BLS12381\fp_BLS12381.h
+.\objects\ecp_bls12381.o: ..\signature\BLS12381\big_384_29.h
+.\objects\ecp_bls12381.o: D:\MDK5.36\ARM\ARMCC\Bin\..\include\stdio.h
+.\objects\ecp_bls12381.o: D:\MDK5.36\ARM\ARMCC\Bin\..\include\stdlib.h
+.\objects\ecp_bls12381.o: D:\MDK5.36\ARM\ARMCC\Bin\..\include\inttypes.h
+.\objects\ecp_bls12381.o: D:\MDK5.36\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\ecp_bls12381.o: ..\signature\BLS12381\arch.h
+.\objects\ecp_bls12381.o: D:\MDK5.36\ARM\ARMCC\Bin\..\include\stdbool.h
+.\objects\ecp_bls12381.o: ..\signature\BLS12381\core.h
+.\objects\ecp_bls12381.o: ..\signature\BLS12381\config_big_384_29.h
+.\objects\ecp_bls12381.o: ..\signature\BLS12381\config_field_BLS12381.h
+.\objects\ecp_bls12381.o: ..\signature\BLS12381\config_curve_BLS12381.h

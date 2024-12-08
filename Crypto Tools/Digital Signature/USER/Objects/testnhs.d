@@ -1,0 +1,9 @@
+.\objects\testnhs.o: ..\FP256BN\testnhs.c
+.\objects\testnhs.o: D:\MDK5.36\ARM\ARMCC\Bin\..\include\stdio.h
+.\objects\testnhs.o: D:\MDK5.36\ARM\ARMCC\Bin\..\include\time.h
+.\objects\testnhs.o: ..\FP256BN\newhope.h
+.\objects\testnhs.o: ..\FP256BN\core.h
+.\objects\testnhs.o: D:\MDK5.36\ARM\ARMCC\Bin\..\include\stdlib.h
+.\objects\testnhs.o: ..\FP256BN\arch.h
+.\objects\testnhs.o: D:\MDK5.36\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\testnhs.o: D:\MDK5.36\ARM\ARMCC\Bin\..\include\stdbool.h

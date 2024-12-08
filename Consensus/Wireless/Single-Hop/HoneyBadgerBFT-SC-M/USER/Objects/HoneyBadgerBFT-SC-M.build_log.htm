@@ -1,0 +1,281 @@
+<html>
+<body>
+<pre>
+<h1>µVision Build Log</h1>
+<h2>Tool Versions:</h2>
+IDE-Version: ¦ÌVision V5.36.0.0
+Copyright (C) 2021 ARM Ltd and ARM Germany GmbH. All rights reserved.
+License Information: shuo liu, sdu, LIC=KRMW3-AVM5U-FW92N-YWPKL-SK4DH-9NB83
+ 
+Tool Versions:
+Toolchain:       MDK-ARM Plus  Version: 5.36.0.0
+Toolchain Path:  D:\MDK5.36\ARM\ARMCC\Bin
+C Compiler:      Armcc.exe V5.06 update 7 (build 960)
+Assembler:       Armasm.exe V5.06 update 7 (build 960)
+Linker/Locator:  ArmLink.exe V5.06 update 7 (build 960)
+Library Manager: ArmAr.exe V5.06 update 7 (build 960)
+Hex Converter:   FromElf.exe V5.06 update 7 (build 960)
+CPU DLL:         SARMCM3.DLL V5.36.0.0
+Dialog DLL:      DCM.DLL V1.17.3.0
+Target DLL:      STLink\ST-LINKIII-KEIL_SWO.dll V3.0.9.0
+Dialog DLL:      TCM.DLL V1.53.0.0
+ 
+<h2>Project:</h2>
+C:\Users\LiuShuo\Desktop\HoneyBadgerBFT-SC-M\USER\HoneyBadgerBFT-SC-M.uvprojx
+Project File Date:  12/04/2024
+
+<h2>Output:</h2>
+*** Using Compiler 'V5.06 update 7 (build 960)', folder: 'D:\MDK5.36\ARM\ARMCC\Bin'
+*** Warning: You are compiling one or more files of source type C++ and have selected 'use MicroLIB'. MicroLIB does not support C++!
+  
+Build target 'Target 1'
+Note: source file 'D:\MDK5.36\Packs\ARM\mbedTLS\3.1.0\library\aes.c' - object file renamed from '.\Objects\aes.o' to '.\Objects\aes_1.o'.
+compiling main.c...
+utility.h(17): warning:  #1295-D: Deprecated declaration init_public_key - give arg types
+  void init_public_key();
+utility.h(23): warning:  #1-D: last line of file ends without a newline
+  #endif /* UTILITY_H */
+..\APPLICATION\tendermint2.h(116): warning:  #1295-D: Deprecated declaration tendermint2 - give arg types
+  void tendermint2();
+..\BN158\bls_BN158.h(51): warning:  #1295-D: Deprecated declaration BLS_BN158_INIT - give arg types
+  int BLS_BN158_INIT();
+..\APPLICATION\ABA_Shared.h(110): warning:  #1-D: last line of file ends without a newline
+  #endif /* ABA_SHARED_H */
+..\Threshold_Signature\Thres_Sig.h(50): warning:  #1295-D: Deprecated declaration init_thres_sig - give arg types
+  void init_thres_sig();
+..\Threshold_Signature\Thres_Sig.h(54): warning:  #1295-D: Deprecated declaration dealer - give arg types
+  void dealer();
+..\Threshold_Signature\Thres_Sig.h(55): warning:  #1295-D: Deprecated declaration SK_sign - give arg types
+  void SK_sign();
+..\Threshold_Signature\Thres_Sig.h(56): warning:  #1295-D: Deprecated declaration PK_verify_sig_share - give arg types
+  void PK_verify_sig_share();
+..\Threshold_Signature\Thres_Sig.h(57): warning:  #1295-D: Deprecated declaration PK_verify_sig - give arg types
+  void PK_verify_sig();
+..\Threshold_Signature\Thres_Sig.h(58): warning:  #1295-D: Deprecated declaration PK_sig_combine_share - give arg types
+  void PK_sig_combine_share();
+..\Threshold_Signature\Thres_Sig.h(65): warning:  #1-D: last line of file ends without a newline
+  #endif /* THRES_SIG_H */
+..\Threshold_Enc\Thres_Enc.h(50): warning:  #1295-D: Deprecated declaration init_thres_enc - give arg types
+  void init_thres_enc();
+..\Threshold_Enc\Thres_Enc.h(53): warning:  #1295-D: Deprecated declaration Tx_PK_verify_ciphertext - give arg types
+  void Tx_PK_verify_ciphertext();
+..\Threshold_Enc\Thres_Enc.h(72): warning:  #1-D: last line of file ends without a newline
+  #endif /* THRES_SIG_H */
+..\APPLICATION\ABA_Shared.h(110): warning:  #1-D: last line of file ends without a newline
+  #endif /* ABA_SHARED_H */
+main.c(187): warning:  #223-D: function "LoRa_Init" declared implicitly
+  	while(LoRa_Init())//?????LORA???
+main.c(197): warning:  #223-D: function "LoRa_Set" declared implicitly
+  	LoRa_Set();
+main.c(203): warning:  #1295-D: Deprecated declaration ABA_init - give arg types
+  void ABA_init();
+main.c(208): warning:  #1295-D: Deprecated declaration ABA_NACK_handler - give arg types
+  void ABA_NACK_handler();
+main.c(211): warning:  #1295-D: Deprecated declaration RBC_init - give arg types
+  void RBC_init();
+main.c(212): warning:  #1295-D: Deprecated declaration RBC_INIT_handler - give arg types
+  void RBC_INIT_handler();
+main.c(215): warning:  #1295-D: Deprecated declaration RBC_NACK_handler - give arg types
+  void RBC_NACK_handler();
+main.c(216): warning:  #1295-D: Deprecated declaration RBC_ER_handler - give arg types
+  void RBC_ER_handler();
+main.c(219): warning:  #1295-D: Deprecated declaration PACKET_handler - give arg types
+  void PACKET_handler();
+main.c(220): warning:  #1295-D: Deprecated declaration Tx_init - give arg types
+  void Tx_init();
+main.c(222): warning:  #1295-D: Deprecated declaration ENC_NACK_handler - give arg types
+  void ENC_NACK_handler();
+main.c(436): warning:  #177-D: variable "num"  was declared but never referenced
+  	u8 num=0,enevtvalue;
+main.c(436): warning:  #177-D: variable "enevtvalue"  was declared but never referenced
+  	u8 num=0,enevtvalue;
+main.c(437): warning:  #177-D: variable "event0flag"  was declared but never referenced
+  	static u8 event0flag,event1flag,event2flag;
+main.c(437): warning:  #177-D: variable "event1flag"  was declared but never referenced
+  	static u8 event0flag,event1flag,event2flag;
+main.c(437): warning:  #177-D: variable "event2flag"  was declared but never referenced
+  	static u8 event0flag,event1flag,event2flag;
+main.c(537): warning:  #167-D: argument of type "u8 *" is incompatible with parameter of type "char *"
+  	Tx_PK_encrypt(tx_passwd,enc_tx_passwd[ID]);
+main.c(537): warning:  #167-D: argument of type "u8 *" is incompatible with parameter of type "char *"
+  	Tx_PK_encrypt(tx_passwd,enc_tx_passwd[ID]);
+main.c(607): warning:  #167-D: argument of type "u8 *" is incompatible with parameter of type "char *"
+      HASH256_hash(&sh256,hash_v[ID]);
+main.c(700): warning:  #940-D: missing return statement at end of non-void function "subset_or_not" 
+  }
+main.c(720): warning:  #167-D: argument of type "uint8_t *" is incompatible with parameter of type "char *"
+  	HASH256_hash(&sh256,hash);
+main.c(747): warning:  #167-D: argument of type "uint8_t *" is incompatible with parameter of type "char *"
+  	HASH256_hash(&sh256,hash);
+main.c(777): warning:  #167-D: argument of type "uint8_t *" is incompatible with parameter of type "char *"
+  	HASH256_hash(&sh256,hash);
+main.c(815): warning:  #167-D: argument of type "uint8_t *" is incompatible with parameter of type "char *"
+  		HASH256_hash(&sh256,hash);
+main.c(865): warning:  #167-D: argument of type "uint8_t *" is incompatible with parameter of type "char *"
+  		HASH256_hash(&sh256,hash);
+main.c(901): warning:  #167-D: argument of type "uint8_t *" is incompatible with parameter of type "char *"
+  	HASH256_hash(&sh256,hash);
+main.c(884): warning:  #177-D: variable "padding"  was declared but never referenced
+  	u8 padding = 0;
+main.c(930): warning:  #167-D: argument of type "uint8_t *" is incompatible with parameter of type "char *"
+  	HASH256_hash(&sh256,hash);
+main.c(913): warning:  #177-D: variable "padding"  was declared but never referenced
+  	u8 padding = 0;
+main.c(974): warning:  #167-D: argument of type "uint8_t *" is incompatible with parameter of type "char *"
+  		HASH256_hash(&sh256,hash);
+main.c(1017): warning:  #167-D: argument of type "uint8_t *" is incompatible with parameter of type "char *"
+  		HASH256_hash(&sh256,hash);
+main.c(1051): warning:  #167-D: argument of type "uint8_t *" is incompatible with parameter of type "char *"
+  	HASH256_hash(&sh256,hash);
+main.c(1092): warning:  #167-D: argument of type "uint8_t *" is incompatible with parameter of type "char *"
+  	HASH256_hash(&sh256,hash);
+main.c(1111): warning:  #177-D: variable "state_flag"  was declared but never referenced
+  		u8 state_flag = 0;
+main.c(1154): warning:  #223-D: function "LoRa_SendData" declared implicitly
+  						LoRa_SendData(Send_Data_buff);
+main.c(1195): warning:  #223-D: function "LoRa_SendData" declared implicitly
+  					LoRa_SendData(Send_Data_buff);
+main.c(1193): warning:  #128-D: loop is not reachable
+  				while(1){
+main.c(1230): warning:  #223-D: function "GPIO_Pin_Set" declared implicitly
+  						LED0(1);LED1(1);LED2(1);
+main.c(1270): warning:  #223-D: function "GPIO_Pin_Set" declared implicitly
+  						LED0(1);LED1(1);LED2(1);
+main.c(1307): warning:  #167-D: argument of type "u8 *" is incompatible with parameter of type "char *"
+  				HASH256_hash(&sh256,hash_v[s_id]);
+main.c(1430): warning:  #223-D: function "LoRa_SendData" declared implicitly
+  						LoRa_SendData(Send_Data_buff);
+main.c(1471): warning:  #167-D: argument of type "u8 *" is incompatible with parameter of type "char *"
+  				Tx_PK_combine_share(rbc_id,enc_tx_passwd[rbc_id],dec_tx_passwd[rbc_id]);
+main.c(1471): warning:  #167-D: argument of type "u8 *" is incompatible with parameter of type "char *"
+  				Tx_PK_combine_share(rbc_id,enc_tx_passwd[rbc_id],dec_tx_passwd[rbc_id]);
+main.c(1494): warning:  #223-D: function "LoRa_Set" declared implicitly
+  						LoRa_Set();	
+main.c(1498): warning:  #223-D: function "LoRa_SendData" declared implicitly
+  						LoRa_SendData(Send_Data_buff);
+main.c(1505): warning:  #167-D: argument of type "u8 *" is incompatible with parameter of type "const char *"
+  						u32 send_size = strlen(Send_Data_buff);
+main.c: 62 warnings, 0 errors
+linking...
+Program Size: Code=76700 RO-data=12444 RW-data=6264 ZI-data=286424  
+".\Objects\HoneyBadgerBFT-SC-M.axf" - 0 Error(s), 62 Warning(s).
+
+<h2>Software Packages used:</h2>
+
+Package Vendor: ARM
+                https://www.keil.com/pack/ARM.mbedTLS.3.1.0.pack
+                ARM.mbedTLS.3.1.0
+                ARM mbed Cryptographic and SSL/TLS library
+   * Component: mbed TLS Version: 3.1.0
+
+Package Vendor: Keil
+                https://www.keil.com/pack/Keil.STM32F7xx_DFP.2.15.2.pack
+                Keil.STM32F7xx_DFP.2.15.2
+                STMicroelectronics STM32F7 Series Device Support, Drivers and Examples
+
+<h2>Collection of Component include folders:</h2>
+  .\RTE\Security
+  .\RTE\_Target_1
+  D:\MDK5.36\Packs\ARM\mbedTLS\3.1.0\RTE\include
+  D:\MDK5.36\Packs\ARM\mbedTLS\3.1.0\include
+  D:\MDK5.36\Packs\Keil\STM32F7xx_DFP\2.15.2\Drivers\CMSIS\Device\ST\STM32F7xx\Include
+
+<h2>Collection of Component Files used:</h2>
+
+   * Component: ARM::Security:mbed TLS:3.1.0
+      Source file:   library\pkcs12.c
+      Source file:   library\entropy.c
+      Source file:   library\entropy_poll.c
+      Source file:   library\error.c
+      Source file:   library\gcm.c
+      Source file:   library\md.c
+      Source file:   library\memory_buffer_alloc.c
+      Source file:   library\net_sockets.c
+      Source file:   library\ecp_curves.c
+      Source file:   library\pkcs5.c
+      Source file:   library\md5.c
+      Source file:   library\platform.c
+      Source file:   library\pkwrite.c
+      Source file:   library\mps_trace.c
+      Source file:   library\platform_util.c
+      Source file:   library\poly1305.c
+      Source file:   library\psa_crypto.c
+      Source file:   library\hmac_drbg.c
+      Source file:   library\mps_reader.c
+      Source file:   library\nist_kw.c
+      Source file:   library\hkdf.c
+      Source file:   library\pkparse.c
+      Source file:   library\pk.c
+      Source file:   library\pk_wrap.c
+      Source file:   library\pem.c
+      Source file:   library\psa_crypto_aead.c
+      Source file:   library\psa_crypto_cipher.c
+      Source file:   library\psa_crypto_client.c
+      Source file:   library\oid.c
+      Include file:  RTE\configs\mbedTLS_crypto_config.h
+      Include file:  RTE\configs\mbedTLS_config.h
+      Source file:   library\aes.c
+      Source file:   library\aria.c
+      Source file:   library\asn1parse.c
+      Source file:   library\asn1write.c
+      Source file:   library\base64.c
+      Source file:   library\bignum.c
+      Source file:   library\cmac.c
+      Source file:   library\cipher.c
+      Source file:   library\ecdh.c
+      Source file:   library\chacha20.c
+      Source file:   library\camellia.c
+      Source file:   library\des.c
+      Source file:   library\dhm.c
+      Source file:   library\cipher_wrap.c
+      Source file:   library\ecdsa.c
+      Source file:   library\chachapoly.c
+      Source file:   library\constant_time.c
+      Source file:   library\ecp.c
+      Source file:   library\ctr_drbg.c
+      Source file:   library\ecjpake.c
+      Source file:   library\debug.c
+      Source file:   library\ccm.c
+      Source file:   library\version_features.c
+      Source file:   library\psa_crypto_mac.c
+      Source file:   library\psa_crypto_rsa.c
+      Source file:   library\psa_crypto_storage.c
+      Source file:   library\rsa_alt_helpers.c
+      Source file:   library\sha1.c
+      Source file:   library\psa_crypto_driver_wrappers.c
+      Source file:   library\psa_crypto_ecp.c
+      Source file:   library\sha512.c
+      Source file:   library\ssl_ciphersuites.c
+      Source file:   library\ssl_cli.c
+      Source file:   library\ssl_cookie.c
+      Source file:   library\psa_crypto_hash.c
+      Source file:   library\ssl_debug_helpers_generated.c
+      Source file:   library\ssl_msg.c
+      Source file:   library\ssl_srv.c
+      Source file:   library\ssl_ticket.c
+      Source file:   library\ssl_tls.c
+      Source file:   library\psa_its_file.c
+      Source file:   library\ssl_tls13_client.c
+      Source file:   library\ssl_tls13_generic.c
+      Source file:   library\rsa.c
+      Source file:   library\ssl_tls13_keys.c
+      Source file:   library\ssl_tls13_server.c
+      Source file:   library\timing.c
+      Source file:   library\threading.c
+      Source file:   library\psa_crypto_se.c
+      Source file:   library\sha256.c
+      Source file:   library\psa_crypto_slot_management.c
+      Source file:   library\ripemd160.c
+      Source file:   library\version.c
+      Source file:   library\ssl_cache.c
+      Source file:   library\x509_crt.c
+      Source file:   library\x509_crl.c
+      Source file:   library\x509write_crt.c
+      Source file:   library\x509.c
+      Source file:   library\x509_csr.c
+      Source file:   library\x509write_csr.c
+      Source file:   library\x509_create.c
+Build Time Elapsed:  00:00:04
+</pre>
+</body>
+</html>

@@ -1,0 +1,13 @@
+.\objects\fp2_bls24479.o: ..\signature\BLS24479\fp2_BLS24479.c
+.\objects\fp2_bls24479.o: ..\signature\BLS24479\fp2_BLS24479.h
+.\objects\fp2_bls24479.o: ..\signature\BLS24479\fp_BLS24479.h
+.\objects\fp2_bls24479.o: ..\signature\BLS24479\big_480_29.h
+.\objects\fp2_bls24479.o: D:\MDK5.36\ARM\ARMCC\Bin\..\include\stdio.h
+.\objects\fp2_bls24479.o: D:\MDK5.36\ARM\ARMCC\Bin\..\include\stdlib.h
+.\objects\fp2_bls24479.o: D:\MDK5.36\ARM\ARMCC\Bin\..\include\inttypes.h
+.\objects\fp2_bls24479.o: D:\MDK5.36\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\fp2_bls24479.o: ..\signature\BLS24479\arch.h
+.\objects\fp2_bls24479.o: D:\MDK5.36\ARM\ARMCC\Bin\..\include\stdbool.h
+.\objects\fp2_bls24479.o: ..\signature\BLS24479\core.h
+.\objects\fp2_bls24479.o: ..\signature\BLS24479\config_big_480_29.h
+.\objects\fp2_bls24479.o: ..\signature\BLS24479\config_field_BLS24479.h
