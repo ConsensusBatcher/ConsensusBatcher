@@ -15,9 +15,11 @@ The **Crypto Tools** directory provides fundamental cryptographic components, in
 > [1]A. Miller, Y. Xia, K. Croman, E. Shi, and D. Song, “The honey badger
 > of bft protocols,” in Proceedings of the 2016 ACM SIGSAC conference
 > on computer and communications security, 2016, pp. 31–42.
+> 
 > [2] S. Duan, M. K. Reiter, and H. Zhang, “Beat: Asynchronous bft made
 > practical,” in Proceedings of the 2018 ACM SIGSAC Conference on
 > Computer and Communications Security, 2018, pp. 2028–2041.
+> 
 > [3] B. Guo, Z. Lu, Q. Tang, J. Xu, and Z. Zhang, “Dumbo: Faster
 > asynchronous bft protocols,” in Proceedings of the 2020 ACM SIGSAC
 > Conference on Computer and Communications Security, 2020, pp. 803–
@@ -26,6 +28,7 @@ The **Crypto Tools** directory provides fundamental cryptographic components, in
 > [4]G. Bracha, “An asynchronous [(n-1)/3]-resilient consensus protocol,”
 > in Proceedings of the third annual ACM symposium on Principles of
 > distributed computing, 1984, pp. 154–162.
+> 
 > [5] C. Cachin, K. Kursawe, and V. Shoup, “Random oracles in constantipole:
 > practical asynchronous byzantine agreement using cryptography,” in
 > Proceedings of the nineteenth annual ACM symposium on Principles
