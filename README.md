@@ -41,7 +41,7 @@ Operating System: [FreeRTOS](https://www.freertos.org/index.html)
 
 ##### Smart Car
 
-![](file:///Users/liushuo/Desktop/Asynchronous%20BFT%20Made%20Practical/README/img/smartcar.png?msec=1734180969836)
+![](/img/smartcar.png?msec=1734180969836)
 
 1. **LoRa:** This is the main communication device, with a communication range of up to 6 kilometers with a 3dBi gain antenna.
   
