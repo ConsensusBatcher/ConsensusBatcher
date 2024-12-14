@@ -128,7 +128,7 @@ Note: The current implementation supports up to 8 nodes in a single-hop network.
 
 As shown in the diagram for a multi-hop network deployment, all cluster leaders must be able to communicate within a single-hop distance. In future work, we will integrate a routing protocol. Apart from leader nodes, followers from different clusters should not communicate within a single-hop distance.
 
-<img title="" src="img/multi-hop.png" alt=" " data-align="center" width="230">
+<img title="" src="img/multi-hop.png" alt=" " data-align="center" width="400">
 
 The currently provided multi-hop network code supports 16 nodes.
 
