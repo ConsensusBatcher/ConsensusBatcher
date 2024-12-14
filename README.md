@@ -41,7 +41,7 @@ Operating System: [FreeRTOS](https://www.freertos.org/index.html)
 
 ##### Smart Car
 
-![](/img/smartcar.png?msec=1734180969836)
+<img title="" src="img/smartcar.png" alt=" hi" data-align="center" width="513">
 
 1. **LoRa:** This is the main communication device, with a communication range of up to 6 kilometers with a 3dBi gain antenna.
   
@@ -92,7 +92,7 @@ To modify the global configuration variables, follow the instructions below:
 
 The communication distance between any two nodes should not exceed a single hop, as depicted in the diagram below.
 
-![](file:///Users/liushuo/Desktop/Asynchronous%20BFT%20Made%20Practical/README/img/singlehop.png?msec=1734180969792)
+<img title="" src="img/singlehop.png" alt=" " width="251" data-align="center">
 
 In a single-hop architecture, all nodes share the same channel. To reduce congestion in the future, we will consider implementing multiple channels.
 
@@ -128,7 +128,7 @@ Note: The current implementation supports up to 8 nodes in a single-hop network.
 
 As shown in the diagram for a multi-hop network deployment, all cluster leaders must be able to communicate within a single-hop distance. In future work, we will integrate a routing protocol. Apart from leader nodes, followers from different clusters should not communicate within a single-hop distance.
 
-![](file:///Users/liushuo/Desktop/Asynchronous%20BFT%20Made%20Practical/README/img/multi-hop.png?msec=1734180969833)
+<img title="" src="img/multihop.png" alt=" " data-align="center" width="230">
 
 The currently provided multi-hop network code supports 16 nodes.
 
