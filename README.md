@@ -1,4 +1,4 @@
-# SkyConsensus
+# ConsensusBatcher
 
 This repository is for "Asynchronous BFT Consensus Made Wireless".
 
