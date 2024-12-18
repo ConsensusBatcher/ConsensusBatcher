@@ -1,6 +1,6 @@
 # SkyConsensus
 
-This repository is for "Asynchronous BFT Consensus Made Practical in Wireless Networks."
+This repository is for "Asynchronous BFT Consensus Made Wireless".
 
 ### Note
 
