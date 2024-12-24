@@ -44,6 +44,10 @@ Operating System: [FreeRTOS](https://www.freertos.org/index.html)
 
 ##### Smart Car
 
+We use the testbed from [1].
+
+> [1] Liu, Shuo, et al. "Partially Synchronous BFT Consensus Made Practical in Wireless Networks." arXiv preprint arXiv:2412.05512 (2024).
+
 <img title="" src="img/smartcar.png" alt=" hi" data-align="center" width="513">
 
 1. **LoRa:** This is the main communication device, with a communication range of up to 6 kilometers with a 3dBi gain antenna.
